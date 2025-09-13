@@ -1,12 +1,11 @@
 # Flutter Internship Assignment
 
-A complete Flutter application recreating 4 Figma designs with pixel-perfect precision and responsive design.
+A complete Flutter application recreating 4 screen and responsive design.
 
 ## 🚀 Features
 
 - **4 Responsive Screens**: Upgrade Homepage, Subscription, Mixer, and Mixer-VIP
 - **State Management**: GetX for reactive state management
-- **Pixel-Perfect UI**: Exact match to Figma designs
 - **Responsive Design**: Works on all screen sizes
 - **Clean Architecture**: Separated controllers, screens, and widgets
 
@@ -18,12 +17,6 @@ A complete Flutter application recreating 4 Figma designs with pixel-perfect pre
 | **Subscription Screen** | Plan selection with interactive cards and pricing |
 | **Mixer Screen** | Audio controls with sliders and reset functionality |
 | **Mixer VIP Screen** | Premium audio controls with feature gating |
-
-## 🛠️ Tech Stack
-
-- **Flutter**: 3.19.5
-- **GetX**: 4.6.6 (State Management)
-- **Dart**: 3.3.0
 
 ## 🏗️ Project Structure
 
@@ -50,15 +43,6 @@ lib/
 ```bash
 # Clone the repository
 git clone https://github.com/waseyjamal/flutter-internship-assignment.git
-
-# Navigate to project directory
-cd flutter-internship-assignment
-
-# Install dependencies
-flutter pub get
-
-# Run the application
-flutter run
 
 📞 Contact
 Wasey Jamal
