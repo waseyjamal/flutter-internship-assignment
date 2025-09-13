@@ -18,25 +18,6 @@ A complete Flutter application recreating 4 screen and responsive design.
 | **Mixer Screen** | Audio controls with sliders and reset functionality |
 | **Mixer VIP Screen** | Premium audio controls with feature gating |
 
-## 🏗️ Project Structure
-
-lib/
-├── controllers/ # GetX Controllers
-│ ├── upgrade_controller.dart
-│ ├── subscription_controller.dart
-│ ├── mixer_controller.dart
-│ └── mixer_vip_controller.dart
-├── screens/ # UI Screens
-│ ├── upgrade_screen.dart
-│ ├── subscription_screen.dart
-│ ├── mixer_screen.dart
-│ └── mixer_vip_screen.dart
-├── widgets/ # Reusable Components
-│ ├── benefit_tile.dart
-│ ├── plan_card.dart
-│ └── mixer_slider.dart
-└── main.dart # App Entry Point
-
 
 ## 📦 Installation & Setup
 
